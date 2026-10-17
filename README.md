@@ -22,3 +22,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-15 | [3. Longest Substring Without Repeating Characters](medium/0003_longest_substring_without_repeating_characters.py) | Medium |
 | 2026-10-16 | [121. Best Time to Buy and Sell Stock](easy/0121_best_time_to_buy_and_sell_stock.py) | Easy |
 | 2026-10-16 | [11. Container With Most Water](medium/0011_container_with_most_water.py) | Medium |
+| 2026-10-17 | [20. Valid Parentheses](easy/0020_valid_parentheses.py) | Easy |
+| 2026-10-17 | [84. Largest Rectangle in Histogram](hard/0084_largest_rectangle_in_histogram.py) | Hard |
