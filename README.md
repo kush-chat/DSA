@@ -24,3 +24,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-16 | [11. Container With Most Water](medium/0011_container_with_most_water.py) | Medium |
 | 2026-10-17 | [20. Valid Parentheses](easy/0020_valid_parentheses.py) | Easy |
 | 2026-10-17 | [84. Largest Rectangle in Histogram](hard/0084_largest_rectangle_in_histogram.py) | Hard |
+| 2026-10-18 | [704. Binary Search](easy/0704_binary_search.py) | Easy |
+| 2026-10-18 | [33. Search in Rotated Sorted Array](medium/0033_search_in_rotated_sorted_array.py) | Medium |
