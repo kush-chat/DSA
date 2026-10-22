@@ -28,3 +28,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-18 | [33. Search in Rotated Sorted Array](medium/0033_search_in_rotated_sorted_array.py) | Medium |
 | 2026-10-19 | [70. Climbing Stairs](easy/0070_climbing_stairs.py) | Easy |
 | 2026-10-19 | [198. House Robber](medium/0198_house_robber.py) | Medium |
+| 2026-10-22 | [242. Valid Anagram](easy/0242_valid_anagram.py) | Easy |
+| 2026-10-22 | [49. Group Anagrams](medium/0049_group_anagrams.py) | Medium |
