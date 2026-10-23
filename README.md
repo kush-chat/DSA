@@ -30,3 +30,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-19 | [198. House Robber](medium/0198_house_robber.py) | Medium |
 | 2026-10-22 | [242. Valid Anagram](easy/0242_valid_anagram.py) | Easy |
 | 2026-10-22 | [49. Group Anagrams](medium/0049_group_anagrams.py) | Medium |
+| 2026-10-23 | [206. Reverse Linked List](easy/0206_reverse_linked_list.py) | Easy |
+| 2026-10-23 | [141. Linked List Cycle](easy/0141_linked_list_cycle.py) | Easy |
