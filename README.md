@@ -32,3 +32,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-22 | [49. Group Anagrams](medium/0049_group_anagrams.py) | Medium |
 | 2026-10-23 | [206. Reverse Linked List](easy/0206_reverse_linked_list.py) | Easy |
 | 2026-10-23 | [141. Linked List Cycle](easy/0141_linked_list_cycle.py) | Easy |
+| 2026-10-24 | [238. Product of Array Except Self](medium/0238_product_of_array_except_self.py) | Medium |
+| 2026-10-24 | [560. Subarray Sum Equals K](medium/0560_subarray_sum_equals_k.py) | Medium |
