@@ -36,3 +36,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-24 | [560. Subarray Sum Equals K](medium/0560_subarray_sum_equals_k.py) | Medium |
 | 2026-10-25 | [42. Trapping Rain Water](hard/0042_trapping_rain_water.py) | Hard |
 | 2026-10-25 | [739. Daily Temperatures](medium/0739_daily_temperatures.py) | Medium |
+| 2026-10-26 | [55. Jump Game](medium/0055_jump_game.py) | Medium |
+| 2026-10-26 | [53. Maximum Subarray](medium/0053_maximum_subarray.py) | Medium |
