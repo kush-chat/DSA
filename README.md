@@ -38,3 +38,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-25 | [739. Daily Temperatures](medium/0739_daily_temperatures.py) | Medium |
 | 2026-10-26 | [55. Jump Game](medium/0055_jump_game.py) | Medium |
 | 2026-10-26 | [53. Maximum Subarray](medium/0053_maximum_subarray.py) | Medium |
+| 2026-10-27 | [136. Single Number](easy/0136_single_number.py) | Easy |
+| 2026-10-27 | [338. Counting Bits](easy/0338_counting_bits.py) | Easy |
