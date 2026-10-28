@@ -40,3 +40,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-26 | [53. Maximum Subarray](medium/0053_maximum_subarray.py) | Medium |
 | 2026-10-27 | [136. Single Number](easy/0136_single_number.py) | Easy |
 | 2026-10-27 | [338. Counting Bits](easy/0338_counting_bits.py) | Easy |
+| 2026-10-28 | [56. Merge Intervals](medium/0056_merge_intervals.py) | Medium |
+| 2026-10-28 | [435. Non-overlapping Intervals](medium/0435_non_overlapping_intervals.py) | Medium |
