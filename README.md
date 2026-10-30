@@ -44,3 +44,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-28 | [435. Non-overlapping Intervals](medium/0435_non_overlapping_intervals.py) | Medium |
 | 2026-10-29 | [104. Maximum Depth of Binary Tree](easy/0104_maximum_depth_of_binary_tree.py) | Easy |
 | 2026-10-29 | [543. Diameter of Binary Tree](easy/0543_diameter_of_binary_tree.py) | Easy |
+| 2026-10-30 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) · [Python](medium/0062_unique_paths.py) | Medium |
+| 2026-10-30 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) · [Python](medium/0064_minimum_path_sum.py) | Medium |
