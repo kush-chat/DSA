@@ -46,3 +46,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-29 | [543. Diameter of Binary Tree](easy/0543_diameter_of_binary_tree.py) | Easy |
 | 2026-10-30 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) · [Python](medium/0062_unique_paths.py) | Medium |
 | 2026-10-30 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) · [Python](medium/0064_minimum_path_sum.py) | Medium |
+| 2026-10-31 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) · [Python](easy/0125_valid_palindrome.py) | Easy |
+| 2026-10-31 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) · [Python](easy/0680_valid_palindrome_ii.py) | Easy |
