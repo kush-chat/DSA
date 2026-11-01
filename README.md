@@ -48,3 +48,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-30 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) · [Python](medium/0064_minimum_path_sum.py) | Medium |
 | 2026-10-31 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) · [Python](easy/0125_valid_palindrome.py) | Easy |
 | 2026-10-31 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) · [Python](easy/0680_valid_palindrome_ii.py) | Easy |
+| 2026-11-01 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) · [Python](easy/0217_contains_duplicate.py) | Easy |
+| 2026-11-01 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · [Python](medium/0128_longest_consecutive_sequence.py) | Medium |
