@@ -50,3 +50,5 @@ python3 easy/0001_two_sum.py
 | 2026-10-31 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) · [Python](easy/0680_valid_palindrome_ii.py) | Easy |
 | 2026-11-01 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) · [Python](easy/0217_contains_duplicate.py) | Easy |
 | 2026-11-01 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · [Python](medium/0128_longest_consecutive_sequence.py) | Medium |
+| 2026-11-02 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) · [Python](medium/0215_kth_largest_element_in_an_array.py) | Medium |
+| 2026-11-02 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [Python](medium/0347_top_k_frequent_elements.py) | Medium |
