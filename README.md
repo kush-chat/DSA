@@ -52,3 +52,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-01 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · [Python](medium/0128_longest_consecutive_sequence.py) | Medium |
 | 2026-11-02 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) · [Python](medium/0215_kth_largest_element_in_an_array.py) | Medium |
 | 2026-11-02 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [Python](medium/0347_top_k_frequent_elements.py) | Medium |
+| 2026-11-03 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) · [Python](medium/0209_minimum_size_subarray_sum.py) | Medium |
+| 2026-11-03 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) · [Python](hard/0239_sliding_window_maximum.py) | Hard |
