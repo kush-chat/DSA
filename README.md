@@ -54,3 +54,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-02 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [Python](medium/0347_top_k_frequent_elements.py) | Medium |
 | 2026-11-03 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) · [Python](medium/0209_minimum_size_subarray_sum.py) | Medium |
 | 2026-11-03 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) · [Python](hard/0239_sliding_window_maximum.py) | Hard |
+| 2026-11-04 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) · [Python](medium/0300_longest_increasing_subsequence.py) | Medium |
+| 2026-11-04 | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) · [Python](easy/0674_longest_continuous_increasing_subsequence.py) | Easy |
