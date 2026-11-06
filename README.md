@@ -58,3 +58,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-04 | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) · [Python](easy/0674_longest_continuous_increasing_subsequence.py) | Easy |
 | 2026-11-05 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) · [Python](easy/0278_first_bad_version.py) | Easy |
 | 2026-11-05 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) · [Python](medium/0153_find_minimum_in_rotated_sorted_array.py) | Medium |
+| 2026-11-06 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) · [Python](easy/0733_flood_fill.py) | Easy |
+| 2026-11-06 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) · [Python](medium/0200_number_of_islands.py) | Medium |
