@@ -60,3 +60,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-05 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) · [Python](medium/0153_find_minimum_in_rotated_sorted_array.py) | Medium |
 | 2026-11-06 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) · [Python](easy/0733_flood_fill.py) | Easy |
 | 2026-11-06 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) · [Python](medium/0200_number_of_islands.py) | Medium |
+| 2026-11-07 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) · [Python](easy/0392_is_subsequence.py) | Easy |
+| 2026-11-07 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) · [Python](medium/1143_longest_common_subsequence.py) | Medium |
