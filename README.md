@@ -62,3 +62,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-06 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) · [Python](medium/0200_number_of_islands.py) | Medium |
 | 2026-11-07 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) · [Python](easy/0392_is_subsequence.py) | Easy |
 | 2026-11-07 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) · [Python](medium/1143_longest_common_subsequence.py) | Medium |
+| 2026-11-08 | [169. Majority Element](https://leetcode.com/problems/majority-element/) · [Python](easy/0169_majority_element.py) | Easy |
+| 2026-11-08 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) · [Python](medium/0075_sort_colors.py) | Medium |
