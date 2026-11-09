@@ -64,3 +64,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-07 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) · [Python](medium/1143_longest_common_subsequence.py) | Medium |
 | 2026-11-08 | [169. Majority Element](https://leetcode.com/problems/majority-element/) · [Python](easy/0169_majority_element.py) | Easy |
 | 2026-11-08 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) · [Python](medium/0075_sort_colors.py) | Medium |
+| 2026-11-09 | [78. Subsets](https://leetcode.com/problems/subsets/) · [Python](medium/0078_subsets.py) | Medium |
+| 2026-11-09 | [46. Permutations](https://leetcode.com/problems/permutations/) · [Python](medium/0046_permutations.py) | Medium |
