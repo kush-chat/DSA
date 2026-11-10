@@ -66,3 +66,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-08 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) · [Python](medium/0075_sort_colors.py) | Medium |
 | 2026-11-09 | [78. Subsets](https://leetcode.com/problems/subsets/) · [Python](medium/0078_subsets.py) | Medium |
 | 2026-11-09 | [46. Permutations](https://leetcode.com/problems/permutations/) · [Python](medium/0046_permutations.py) | Medium |
+| 2026-11-10 | [202. Happy Number](https://leetcode.com/problems/happy-number/) · [Python](easy/0202_happy_number.py) | Easy |
+| 2026-11-10 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) · [Python](medium/0287_find_the_duplicate_number.py) | Medium |
