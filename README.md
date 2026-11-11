@@ -68,3 +68,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-09 | [46. Permutations](https://leetcode.com/problems/permutations/) · [Python](medium/0046_permutations.py) | Medium |
 | 2026-11-10 | [202. Happy Number](https://leetcode.com/problems/happy-number/) · [Python](easy/0202_happy_number.py) | Easy |
 | 2026-11-10 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) · [Python](medium/0287_find_the_duplicate_number.py) | Medium |
+| 2026-11-11 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) · [Python](easy/0844_backspace_string_compare.py) | Easy |
+| 2026-11-11 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) · [Python](easy/1047_remove_all_adjacent_duplicates_in_string.py) | Easy |
