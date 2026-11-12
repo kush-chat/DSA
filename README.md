@@ -70,3 +70,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-10 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) · [Python](medium/0287_find_the_duplicate_number.py) | Medium |
 | 2026-11-11 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) · [Python](easy/0844_backspace_string_compare.py) | Easy |
 | 2026-11-11 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) · [Python](easy/1047_remove_all_adjacent_duplicates_in_string.py) | Easy |
+| 2026-11-12 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) · [Python](medium/0045_jump_game_ii.py) | Medium |
+| 2026-11-12 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) · [Python](medium/0122_best_time_to_buy_and_sell_stock_ii.py) | Medium |
