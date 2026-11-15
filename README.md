@@ -76,3 +76,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-13 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) · [Python](medium/0102_binary_tree_level_order_traversal.py) | Medium |
 | 2026-11-14 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) · [Python](easy/0021_merge_two_sorted_lists.py) | Easy |
 | 2026-11-14 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) · [Python](medium/0019_remove_nth_node_from_end_of_list.py) | Medium |
+| 2026-11-15 | [322. Coin Change](https://leetcode.com/problems/coin-change/) · [Python](medium/0322_coin_change.py) | Medium |
+| 2026-11-15 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) · [Python](easy/0746_min_cost_climbing_stairs.py) | Easy |
