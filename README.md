@@ -78,3 +78,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-14 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) · [Python](medium/0019_remove_nth_node_from_end_of_list.py) | Medium |
 | 2026-11-15 | [322. Coin Change](https://leetcode.com/problems/coin-change/) · [Python](medium/0322_coin_change.py) | Medium |
 | 2026-11-15 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) · [Python](easy/0746_min_cost_climbing_stairs.py) | Easy |
+| 2026-11-16 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) · [Python](medium/0542_01_matrix.py) | Medium |
+| 2026-11-16 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) · [Python](medium/0994_rotting_oranges.py) | Medium |
