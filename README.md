@@ -80,3 +80,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-15 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) · [Python](easy/0746_min_cost_climbing_stairs.py) | Easy |
 | 2026-11-16 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) · [Python](medium/0542_01_matrix.py) | Medium |
 | 2026-11-16 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) · [Python](medium/0994_rotting_oranges.py) | Medium |
+| 2026-11-17 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) · [Python](medium/0034_find_first_and_last_position_of_element_in_sorted_array.py) | Medium |
+| 2026-11-17 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) · [Python](medium/0074_search_a_2d_matrix.py) | Medium |
