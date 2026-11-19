@@ -84,3 +84,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-17 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) · [Python](medium/0074_search_a_2d_matrix.py) | Medium |
 | 2026-11-18 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) · [Python](easy/0496_next_greater_element_i.py) | Easy |
 | 2026-11-18 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) · [Python](medium/0503_next_greater_element_ii.py) | Medium |
+| 2026-11-19 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) · [Python](hard/0076_minimum_window_substring.py) | Hard |
+| 2026-11-19 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) · [Python](medium/0567_permutation_in_string.py) | Medium |
