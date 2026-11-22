@@ -86,3 +86,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-18 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) · [Python](medium/0503_next_greater_element_ii.py) | Medium |
 | 2026-11-19 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) · [Python](hard/0076_minimum_window_substring.py) | Hard |
 | 2026-11-19 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) · [Python](medium/0567_permutation_in_string.py) | Medium |
+| 2026-11-21 | [268. Missing Number](https://leetcode.com/problems/missing-number/) · [Python](easy/0268_missing_number.py) | Easy |
+| 2026-11-21 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) · [Python](medium/0213_house_robber_ii.py) | Medium |
