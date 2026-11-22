@@ -88,3 +88,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-19 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) · [Python](medium/0567_permutation_in_string.py) | Medium |
 | 2026-11-21 | [268. Missing Number](https://leetcode.com/problems/missing-number/) · [Python](easy/0268_missing_number.py) | Easy |
 | 2026-11-21 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) · [Python](medium/0213_house_robber_ii.py) | Medium |
+| 2026-11-22 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) · [Python](easy/0997_find_the_town_judge.py) | Easy |
+| 2026-11-22 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) · [Python](medium/0207_course_schedule.py) | Medium |
