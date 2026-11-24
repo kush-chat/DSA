@@ -92,3 +92,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-22 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) · [Python](medium/0207_course_schedule.py) | Medium |
 | 2026-11-23 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) · [Python](easy/0455_assign_cookies.py) | Easy |
 | 2026-11-23 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) · [Python](medium/0881_boats_to_save_people.py) | Medium |
+| 2026-11-24 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) · [Python](medium/0516_longest_palindromic_subsequence.py) | Medium |
+| 2026-11-24 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) · [Python](medium/0647_palindromic_substrings.py) | Medium |
