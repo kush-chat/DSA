@@ -94,3 +94,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-23 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) · [Python](medium/0881_boats_to_save_people.py) | Medium |
 | 2026-11-24 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) · [Python](medium/0516_longest_palindromic_subsequence.py) | Medium |
 | 2026-11-24 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) · [Python](medium/0647_palindromic_substrings.py) | Medium |
+| 2026-11-25 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) · [Python](easy/0283_move_zeroes.py) | Easy |
+| 2026-11-25 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) · [Python](medium/0189_rotate_array.py) | Medium |
