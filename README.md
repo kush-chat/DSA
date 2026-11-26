@@ -96,3 +96,5 @@ python3 easy/0001_two_sum.py
 | 2026-11-24 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) · [Python](medium/0647_palindromic_substrings.py) | Medium |
 | 2026-11-25 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) · [Python](easy/0283_move_zeroes.py) | Easy |
 | 2026-11-25 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) · [Python](medium/0189_rotate_array.py) | Medium |
+| 2026-11-26 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) · [Python](easy/0191_number_of_1_bits.py) | Easy |
+| 2026-11-26 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) · [Python](easy/0231_power_of_two.py) | Easy |
